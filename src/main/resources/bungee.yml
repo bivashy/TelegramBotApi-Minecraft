@@ -1,0 +1,3 @@
+name: JavaTelegramBotApi
+main: com.ubivashka.telegram.bungee.BungeeTelegramBotApi
+version: ${project.version}

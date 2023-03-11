@@ -9,8 +9,8 @@
     <properties>
         <java.version>8</java.version>
         <!-- Dependencies -->
-        <spigot.version>1.18.2-R0.1-SNAPSHOT</spigot.version>
-        <bungeecord.version>1.18-R0.1-SNAPSHOT</bungeecord.version>
+        <spigot.version>1.19.2-R0.1-SNAPSHOT</spigot.version>
+        <bungeecord.version>1.19-R0.1-SNAPSHOT</bungeecord.version>
         <velocity.version>3.1.1</velocity.version>
         <java-telegram-bot-api.version>6.5.0</java-telegram-bot-api.version>
 

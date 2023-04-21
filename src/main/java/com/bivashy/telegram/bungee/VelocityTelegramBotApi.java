@@ -1,4 +1,4 @@
-package com.ubivashka.telegram.bungee;
+package com.bivashy.telegram.bungee;
 
 import com.velocitypowered.api.plugin.Plugin;
 

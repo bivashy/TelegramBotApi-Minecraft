@@ -1,3 +1,3 @@
 name: JavaTelegramBotApi
-main: com.ubivashka.telegram.bungee.BungeeTelegramBotApi
+main: com.bivashy.telegram.bungee.BungeeTelegramBotApi
 version: ${project.version}

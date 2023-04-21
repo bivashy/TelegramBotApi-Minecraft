@@ -1,4 +1,4 @@
-package com.ubivashka.telegram.bungee;
+package com.bivashy.telegram.bungee;
 
 import net.md_5.bungee.api.plugin.Plugin;
 
